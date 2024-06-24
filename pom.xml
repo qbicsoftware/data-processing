@@ -11,7 +11,7 @@
   </parent>
   <groupId>life.qbic</groupId>
   <artifactId>data-processing</artifactId>
-  <version>0.5.0</version>
+  <version>0.5.1</version>
   <name>data processing</name>
   <description>A Java tool that scans file move events and triggers a cascade of dataset
     pre-processing
